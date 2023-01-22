@@ -1,6 +1,6 @@
 const btnEl = document.getElementById("btn")
 const jokeEl = document.getElementById("joke")
-const apiKey = "api.js";
+
 const options = {
     method: "GET",
     headers : {
